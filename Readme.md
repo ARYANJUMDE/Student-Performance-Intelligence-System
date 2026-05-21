@@ -112,12 +112,6 @@ student-performance-intelligence-system/
 git clone https://github.com/ARYANJUMDE/Student-Performance-Intelligence-System
 ```
 
-## 2️⃣ Navigate to Project Folder
-
-```bash
-cd "student-performance-intelligence-system - Copy"
-```
-
 ## 3️⃣ Install Dependencies
 
 Install dependencies from the provided `requirements.txt` file:
