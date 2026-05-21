@@ -109,7 +109,7 @@ student-performance-intelligence-system/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/ARYANJUMDE/Student-Performance-Intelligence-System
 ```
 
 ## 2️⃣ Navigate to Project Folder
